@@ -1,0 +1,273 @@
+{
+    "background": "http://www.xypojie.com/install/image/bg4.png",
+    "adImage": "http://www.xypojie.com/install/image/ad.png",
+    "apk": [
+        {
+            "version": 1,
+            "apkName1": " \n\t\t Announcement \n \n
+    ● GO IPTV > live channel (配套2)
+    ● Kodi > 港韩大陆剧，看戏先选miboxmy，请不要通过kodi下面的app list来打开其他android app，直接在电视盒子主页打开。每次退出的时候请选左上角的quit按钮退出。kodi看不到的时候请留意kodi底部的公告来跑一次kodi wizard更新kodi
+    ● Morpheus TV > 新电影 (建议优先选择gvideo, openload server和低ms的source)
+    ● Newest Movies HD > 新电影，播放前请选custom> mx player (暂时需要滑鼠操作)
+    ● 千寻,今日影视 > 大陆综艺电影电视剧
+    ● Fvideo > 大陆综艺电影电视剧 (暂时需要滑鼠操作)
+    ● hdp, mobdro, cloudtv > live channel (较iptv不稳定)
+            ",
+            "apkName2": " \n\t\t Announcement \n \n
+    ● GO IPTV > live channel (配套2)
+    ● Kodi > 港韩大陆剧，看戏先选miboxmy，请不要通过kodi下面的app list来打开其他android app，直接在电视盒子主页打开。每次退出的时候请选左上角的quit按钮退出。kodi看不到的时候请留意kodi底部的公告来跑一次kodi wizard更新kodi
+    ● Morpheus TV > 新电影 (建议优先选择gvideo, openload server和低ms的source)
+    ● Newest Movies HD > 新电影，播放前请选custom> mx player (暂时需要滑鼠操作)
+    ● 千寻,今日影视 > 大陆综艺电影电视剧
+    ● Fvideo > 大陆综艺电影电视剧 (暂时需要滑鼠操作)
+    ● hdp, mobdro, cloudtv > live channel (较iptv不稳定)
+            ",
+            "apkName3": " \n\t\t Announcement \n \n
+    ● GO IPTV > live channel (Package 2)
+    ● Kodi > hk, korean drama, variety show etc. Please check update announcement on kodi bottom side and launch kodi wizard to update kodi if required
+    ● Morpheus TV > latest movies (gvideo, openload server and lower ms are recommended)
+    ● Newest Movies HD > latest movies, select custom>mx player to play(required mouse)
+    ● 千寻,今日影视 > chinese movies, tv, variety show etc
+    ● Fvideo > chinese movies, tv, variety show etc(required mouse)
+    ● hdp, mobdro, cloudtv > live channel(relatively unstable compared with go iptv)
+            ",
+            "apkFile": "",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=1tdsXRkvaUX7OQjZoPJYZMtHNfee3InkJ",
+            "apkPackageName": "com.android.settings"
+        },
+        {
+            "version": 106,
+            "apkName1": "GO IPTV",
+            "apkName2": "GO IPTV",
+            "apkName3": "GO IPTV",
+            "apkFile": "http://github.com/smithccy/quicksort/raw/master/goiptv.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiZmJQS3pydXVqbEk",
+            "apkPackageName": "com.gemini.gotv"
+        },
+        {
+            "version": 1760000,
+            "apkName1": "Kodi",
+            "apkName2": "Kodi",
+            "apkName3": "Kodi",
+            "apkFile": "http://mirrors.kodi.tv/releases/android/arm/kodi-17.6-Krypton-armeabi-v7a.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiVDUtYmQ3eW4wNjg",
+            "apkPackageName": "org.xbmc.kodi"
+        },
+        {
+            "version": 102,
+            "apkName1": "Kodi Wizard",
+            "apkName2": "Kodi Wizard",
+            "apkName3": "Kodi Wizard",
+            "apkFile": "https://drive.google.com/uc?export=download&id=0BzvZA1qIi2UiRzlDTkNEdXpFRUE",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiX0RpUDZLQXU3bkk",
+            "apkPackageName": "org.wasser.xbmc"
+        },
+        {
+            "version": 82,
+            "apkName1": "Morpheus TV",
+            "apkName2": "Morpheus TV",
+            "apkName3": "Morpheus TV",
+            "apkFile": "http://github.com/smithccy/Ensage/raw/master/MorpheusTV_1.66.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=19davaIaIF6FAa9JtQRouyXecDBgUE4XG",
+            "apkPackageName": "com.android.morpheustv"
+        },
+        {
+            "version": 118,
+            "apkName1": "Show Box",
+            "apkName2": "Show Box",
+            "apkName3": "Show Box",
+            "apkFile": "https://drive.google.com/uc?export=download&id=1uoD9V2f6Pdp3a8aw-yUsyjzzYeksvjHr",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=1d7GN6HJzbw2n-5jjgX26Ax75PStnwCSn",
+            "apkPackageName": "com.tdo.showbox"
+        },
+        {
+            "version": 34,
+            "apkName1": "Newest Movies HD",
+            "apkName2": "Newest Movies HD",
+            "apkName3": "Newest Movies HD",
+            "apkFile": "https://github.com/smithccy/Ensage/raw/master/newestMoviesHD-44.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=16zI0PD9Yced3Qi463PM-7PHbGL9LsTOp",
+            "apkPackageName": "com.cloud.photosauthen.movhd.thphotos"
+        },
+        {
+            "version": 102,
+            "apkName1": "今日影视",
+            "apkName2": "今日影视",
+            "apkName3": "今日影视",
+            "apkFile": "https://github.com/smithccy/Ensage/raw/master/yingshi_1_3.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=1chwDfhw-9Bf2sHjPAeKrioI-ZLGtpt2f",
+            "apkPackageName": "com.cwb.yingshi"
+        },
+        {
+            "version": 1210001031,
+            "apkName1": "Mx Player",
+            "apkName2": "Mx Player",
+            "apkName3": "Mx Player",
+            "apkFile": "https://github.com/smithccy/Ensage/raw/master/MX_Player_v1.7.40.apk",
+            "apkIcon": "http://www.xypojie.com/install/image/ic_mx.png",
+            "apkPackageName": "com.mxtech.videoplayer.pro"
+        },
+        {
+            "version": 3,
+            "apkName1": "FVideo",
+            "apkName2": "FVideo",
+            "apkName3": "FVideo",
+            "apkFile": "http://github.com/smithccy/Ensage/raw/master/fvideo_1111.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=1PFrZaQCh_NhHmIgyjPjTBpPMdXQDmQeu",
+            "apkPackageName": "com.guagua.video"
+        },
+        {
+            "version": 13448,
+            "apkName1": "TuneIn Radio",
+            "apkName2": "TuneIn Radio",
+            "apkName3": "TuneIn Radio",
+            "apkFile": "https://github.com/smithccy/Ensage/raw/master/tunein_sign.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiaVo1RkJ1R3JYWlk",
+            "apkPackageName": "radiotime.player"
+        },
+        {
+            "version": 58,
+            "apkName1": "千寻(VIP)",
+            "apkName2": "千寻(VIP)",
+            "apkName3": "千寻(VIP)",
+            "apkFile": "https://github.com/smithccy/Ensage/raw/master/qianxun_1.9.9.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=1qAeMwzI0wytPlk0FYt9PFRWEN0Xn6NVY",
+            "apkPackageName": "com.qianxun.tvbox"
+        },
+        {
+            "version": 95,
+            "apkName1": "HDP",
+            "apkName2": "HDP",
+            "apkName3": "HDP",
+            "apkFile": "https://github.com/smithccy/Ensage/raw/master/hdpfans.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiV3U0WndheTNXVzQ",
+            "apkPackageName": "hdpfans.com"
+        },
+        {
+            "version": 306,
+            "apkName1": "电视家",
+            "apkName2": "电视家",
+            "apkName3": "电视家",
+            "apkFile": "https://drive.google.com/uc?export=download&id=0BzvZA1qIi2UiRTIxcG83ZGRxNWc",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UicDVIamxfTFk0MlE",
+            "apkPackageName": "com.dianshijia.newlive"
+        },
+        {
+            "version": 313,
+            "apkName1": "电视猫",
+            "apkName2": "电视猫",
+            "apkName3": "电视猫",
+            "apkFile": "https://drive.google.com/uc?export=download&id=0BzvZA1qIi2UiMThadGRYNHlhVWM",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiYXlRR2t0NVJDLWs",
+            "apkPackageName": "com.moretv.android"
+        },
+        {
+            "version": 83,
+            "apkName1": "CloudTV",
+            "apkName2": "CloudTV",
+            "apkName3": "CloudTV",
+            "apkFile": "https://drive.google.com/uc?export=download&id=0BzvZA1qIi2UiUE84Qm4wTEt4VXc",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiMHQ2TkVpZU1TeE0",
+            "apkPackageName": "com.cloudtv"
+        },
+        {
+            "version": 21412614,
+            "apkName1": "Mobdro",
+            "apkName2": "Mobdro",
+            "apkName3": "Mobdro",
+            "apkFile": "https://github.com/smithccy/quicksort/raw/master/mobdro.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiTGhlSHY3NUM1TjA",
+            "apkPackageName": "com.mobdro.android"
+        },
+        {
+            "version": 10311100,
+            "apkName1": "YouTube",
+            "apkName2": "YouTube",
+            "apkName3": "YouTube",
+            "apkFile": "https://drive.google.com/uc?export=download&id=0BzvZA1qIi2UiQjlESTJBU0F5eWM",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiZ2NMOEUxWGVSQlk",
+            "apkPackageName": "com.google.android.youtube.tv"
+        },
+        {
+            "version": 201000,
+            "apkName1": "斗鱼游戏直播",
+            "apkName2": "斗鱼游戏直播",
+            "apkName3": "Douyu",
+            "apkFile": "https://drive.google.com/uc?export=download&id=0BzvZA1qIi2UidTFNYjJkbVBPd28",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiRW4xandIWXhoM3c",
+            "apkPackageName": "com.douyu.xl.douyutv"
+        },
+        {
+            "version": 296,
+            "apkName1": "沙发市场",
+            "apkName2": "沙发市场",
+            "apkName3": "Shafa Market",
+            "apkFile": "https://drive.google.com/uc?export=download&id=0BzvZA1qIi2UiRU1VdEpLdkRmVTA",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiTGFvdFVDR2hqMWc",
+            "apkPackageName": "com.shafa.market"
+        },
+        {
+            "version": 16,
+            "apkName1": "Rss Player",
+            "apkName2": "Rss Player",
+            "apkName3": "Rss Player",
+            "apkFile": "https://drive.google.com/uc?export=download&id=1FrBb2s0qfdQHQOl2ZjwIAQWN0i3RzLxd",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=16qM9vtiEqf0OkAOJogZRmnBJSVOtaMdX",
+            "apkPackageName": "pis.android.rss.rssplayer"
+        },
+        {
+            "version": 129,
+            "apkName1": "魔力视频",
+            "apkName2": "魔力视频",
+            "apkName3": "魔力视频",
+            "apkFile": "https://www.dropbox.com/s/t9c3g8qde9emtrx/MoliTV-hdp-V1.1.29.apk?dl=1",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiYnoxXzBHSDNBVG8",
+            "apkPackageName": "com.molitv.android"
+        },
+        {
+            "version": 39,
+            "apkName1": "文件管理器",
+            "apkName2": "文件管理器",
+            "apkName3": "File Manager",
+            "apkFile": "https://github.com/smithccy/Ensage/raw/master/com.xiaobaifile.tv.5a6c8cf9ef7941d7057e41ecc626f79f.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiTzhneDI5MXVldDg",
+            "apkPackageName": "com.xiaobaifile.tv"
+        },
+        {
+            "version": 5230,
+            "apkName1": "酷我k歌",
+            "apkName2": "酷我k歌",
+            "apkName3": "KuWo Karaoke",
+            "apkFile": "https://drive.google.com/uc?export=download&id=0BzvZA1qIi2Uiek9wTFBhQWV1Tnc",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UicWpadWZoRmEwS28",
+            "apkPackageName": "cn.kuwo.sing.tv"
+        },
+        {
+            "version": 1,
+            "apkName1": "Flappy Birds Family",
+            "apkName2": "Flappy Birds Family",
+            "apkName3": "Flappy Birds Family",
+            "apkFile": "https://github.com/smithccy/Ensage/raw/master/Flappy.Birds.Family.v.1.0.b.1.crk.Amazon.Removed.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiVXJyUURqQTQ2MUE",
+            "apkPackageName": "com.dotgears.flapfire"
+        },
+        {
+            "version": 15,
+            "apkName1": "DNS Changer",
+            "apkName2": "DNS Changer",
+            "apkName3": "DNS Changer",
+            "apkFile": "https://github.com/smithccy/Ensage/raw/master/DNS_Changer_v1.0.15.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=18_fQSQhXFqrhx8FVnuuLENhM2K5LAH1E",
+            "apkPackageName": "com.burakgon.dnschanger"
+        },
+        {
+            "version": 126,
+            "apkName1": "Settings",
+            "apkName2": "Settings",
+            "apkName3": "Settings",
+            "apkFile": "https://github.com/smithccy/Ensage/raw/master/System_7.3.11_sign.apk",
+            "apkIcon": "https://drive.google.com/uc?export=view&id=0BzvZA1qIi2UiY3BRN2xLTTVTSmc",
+            "apkPackageName": "com.iwantavnow"
+        }
+    ]
+}
